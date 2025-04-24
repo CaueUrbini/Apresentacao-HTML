@@ -1,14 +1,14 @@
-/* ===== VARIÁVEIS DE CORES ===== */
+
 :root {
-   --primary: #2c3e50;       /* Azul/grafite profissional */
-   --secondary: #3498db;     /* Azul destacado */
-   --accent: #e74c3c;        /* Vermelho energético */
-   --text: #333;             /* Texto principal */
-   --light: #ecf0f1;         /* Fundo claro */
-   --dark: #2c3e50;          /* Texto claro em fundos escuros */
+   --primary: #2c3e50;       
+   --secondary: #3498db;     
+   --accent: #e74c3c;        
+   --text: #333;             
+   --light: #ecf0f1;         
+   --dark: #2c3e50;          
  }
  
- /* ===== RESET E ESTILOS BASE ===== */
+ 
  * {
    margin: 0;
    padding: 0;
@@ -23,7 +23,7 @@
    overflow-x: hidden;
  }
  
- /* ===== NAVEGAÇÃO ===== */
+
  nav {
    background-color: var(--primary);
    padding: 1.5rem;
@@ -50,7 +50,7 @@
    transition: color 0.3s;
  }
  
- /* Efeito de sublinhado animado */
+ 
  nav a::after {
    content: '';
    position: absolute;
@@ -70,7 +70,7 @@
    color: var(--accent);
  }
  
- /* ===== HEADER COM ANIMAÇÃO ===== */
+
  header {
    text-align: center;
    padding: 4rem 2rem;
@@ -112,7 +112,7 @@
    animation: slideUp 0.8s ease-out;
  }
  
- /* ===== SEÇÕES ===== */
+
  main {
    max-width: 800px;
    margin: 0 auto;
@@ -148,7 +148,7 @@
    line-height: 1.8;
  }
  
- /* ===== FOOTER ===== */
+ 
  footer {
    background-color: var(--primary);
    color: white;
@@ -184,7 +184,7 @@
    transform: scale(1.2);
  }
  
- /* ===== ANIMAÇÕES ===== */
+
  @keyframes fadeIn {
    from { opacity: 0; }
    to { opacity: 1; }
@@ -218,8 +218,7 @@
      transform: translateY(0);
    }
  }
- 
- /* ===== RESPONSIVIDADE ===== */
+
  @media (max-width: 768px) {
    nav ul {
      flex-direction: column;
