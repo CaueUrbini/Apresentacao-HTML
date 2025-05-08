@@ -6,4 +6,5 @@
 
 
 🔗 [Acesse a aplicação aqui](https://apresentacao-html-opal.vercel.app/)
-![image](https://github.com/user-attachments/assets/30b0999e-f57d-4a07-8a4f-7e2fafb083f1)
+![image](https://github.com/user-attachments/assets/43a5a3c7-8db0-4660-9f71-4b8ab84647b4)
+
