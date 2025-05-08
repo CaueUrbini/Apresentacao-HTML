@@ -1,4 +1,5 @@
-# Apresentacao-HTML
-Estou fazendo um site onde eu me apresento e coloco meus projetos. <br>
-Está no começo mas espero que gostem. 
+# 👨‍🎓 Apresentação HTML - Página Web
 
+## Descrição 
+- Página feita em **HTML** e **CSS**
+- Página web dedica a mostrar quem eu sou e um apresentar de forma breve para vocês
